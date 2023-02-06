@@ -3,7 +3,7 @@ A laser security system. in which the alarm or siren starts buzzing when the las
 
 ![final product](/img/final.jpeg)
 
-Language used: **Embeded C**.
+Language used: **Embeded C**.  
 Technologies used: Arduino Uno and Ada-fruit library for display. 
 
 Check out the simulation [here](https://wokwi.com/projects/333915316267516499).
